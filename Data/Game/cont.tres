@@ -1,0 +1,11 @@
+[gd_resource type="Texture2D" script_class="ControllerIconTexture" load_steps=2 format=3 uid="uid://bv1gay5e7rpgo"]
+
+[ext_resource type="Script" path="res://addons/controller_icons/objects/ControllerIconTexture.gd" id="1_u2tg4"]
+
+[resource]
+resource_local_to_scene = false
+resource_name = ""
+script = ExtResource("1_u2tg4")
+path = "gm_up"
+show_mode = 0
+force_type = 0

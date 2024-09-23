@@ -1,0 +1,8 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://c2c8yyjsfkbld"]
+
+[ext_resource type="FontFile" uid="uid://ck5iejwmuieyg" path="res://Data/Sprites/Fonts/penumbra-sans-std-bold.otf" id="1_k1uul"]
+
+[resource]
+font = ExtResource("1_k1uul")
+outline_size = 3
+outline_color = Color(0, 0, 0, 1)
